@@ -18521,3 +18521,1233 @@ Academic license - for non-commercial use only
 Gurobi 8.1.1 (mac64, Python) logging started Thu Jul 11 09:54:01 2019
 
 Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jul 11 13:12:55 2019
+
+Academic license - for non-commercial use only
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 48 columns and 56 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 1 rows and 1 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.02 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 1 rows and 1 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 16 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 1 rows and 1 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 3 rows and 3 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 34 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 10 rows and 16 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  0.000000000e+00
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 34 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 34 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 34 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 10 rows and 16 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  0.000000000e+00
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 3 rows and 3 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 34 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 10 rows and 16 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  0.000000000e+00
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 34 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 10 rows and 16 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  0.000000000e+00
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 0 rows, 16 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 26 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 36 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 48 columns and 132 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-06, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 1e+01]
+Presolve removed 4 rows and 25 columns
+Presolve time: 0.02s
+Presolved: 12 rows, 23 columns, 62 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.3999997e+01   5.000300e+01   0.000000e+00      0s
+      13   -2.0559967e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 13 iterations and 0.03 seconds
+Optimal objective -2.055996720e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 48 columns and 132 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-06, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 1e+01]
+Presolve removed 4 rows and 25 columns
+Presolve time: 0.03s
+Presolved: 12 rows, 23 columns, 62 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.3999997e+01   5.000300e+01   0.000000e+00      0s
+      13   -2.0559967e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 13 iterations and 0.04 seconds
+Optimal objective -2.055996720e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 48 columns and 132 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 1e+01]
+Presolve removed 7 rows and 36 columns
+Presolve time: 0.01s
+Presolved: 9 rows, 12 columns, 43 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.4000120e+01   3.400000e+01   0.000000e+00      0s
+       6   -2.0560120e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 6 iterations and 0.02 seconds
+Optimal objective -2.056012000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 48 columns and 132 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 1e+01]
+Presolve removed 7 rows and 36 columns
+Presolve time: 0.01s
+Presolved: 9 rows, 12 columns, 43 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.4000120e+01   3.400000e+01   0.000000e+00      0s
+       6   -2.0560120e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 6 iterations and 0.02 seconds
+Optimal objective -2.056012000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+01, 4e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+01, 4e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+01, 4e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+01, 4e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible or unbounded model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+01, 4e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 7e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 10 rows and 4 columns
+Presolve time: 0.01s
+Presolved: 6 rows, 6 columns, 20 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   2.700000e+01   0.000000e+00      0s
+       3   -4.7000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective -4.700000000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 10 rows and 4 columns
+Presolve time: 0.01s
+Presolved: 6 rows, 6 columns, 20 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   2.700000e+01   0.000000e+00      0s
+       3   -4.7000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective -4.700000000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 10 rows and 4 columns
+Presolve time: 0.01s
+Presolved: 6 rows, 6 columns, 20 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   2.700000e+01   0.000000e+00      0s
+       3   -4.7000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective -4.700000000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 7e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 10 rows and 4 columns
+Presolve time: 0.01s
+Presolved: 6 rows, 6 columns, 20 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   2.700000e+01   0.000000e+00      0s
+       3   -2.9000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective -2.900000000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 7e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 16 rows and 10 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.0000200e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective -8.000020000e+00
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 7e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 7e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 7e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 16 rows and 10 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.0000200e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective -8.000020000e+00
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 7e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10 rows, 16 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-05, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 7e+00]
+Presolve removed 5 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 6 columns, 19 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -4.0000600e+00   1.400000e+01   0.000000e+00      0s
+       3    1.3999940e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  1.399994000e+01
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 16 rows, 10 columns and 42 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 7e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e-05, 5e+00]
+Presolve removed 16 rows and 10 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.0000200e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective -8.000020000e+00
